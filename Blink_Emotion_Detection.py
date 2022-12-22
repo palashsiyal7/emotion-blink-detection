@@ -1,7 +1,7 @@
 import cv2                                                       
 import dlib 
-from scipy.spatial import distance                                      # 2022 EALPHABITS.COM,                        
-from imutils import face_utils                                          # All Rights Reserved.
+from scipy.spatial import distance                                                              
+from imutils import face_utils                                          
 import numpy as np
 from keras.models import load_model
 import argparse
